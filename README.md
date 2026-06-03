@@ -51,7 +51,7 @@ https://toplinkstechs.com/olutope-profile-portfolio
 
 * Email: [Send Me Email](mailto:olutop.ab@gmail.com)
 * GitHub: https://github.com/Olu-Tope
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: https://www.linkedin.com/in/tope-abraham-o-3058a414a
 
 
 ## Fun Fact
