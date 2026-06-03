@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Olu-Tope Abraham 👋
 
-<!--
-**Olu-Tope/Olu-Tope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | WordPress Developer | IT Support Engineer | Technical Specialist
 
-Here are some ideas to get you started:
+Passionate about building responsive websites, solving technical issues and creating modern digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+About Me
+
+* Full Stack Web Developer
+* WordPress Website Specialist
+* IT Support & Troubleshooting
+* Website Optimization Expert
+* Responsive Web Design Enthusiast
+
+I enjoy creating modern, fast and user-friendly websites while continuously improving my technical and problem-solving skills.
+
+
+Technologies & Tools
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* WordPress
+* Git & GitHub
+* Responsive Design
+* Website Optimization
+* Technical Support
+
+
+Featured Projects
+
+### Portfolio Website
+
+[Professional personal portfolio website for job applications and client showcase.](https://toplinkstechs.com/olutope-profile-portfolio#projects)
+
+### Responsive Landing Page
+
+[Olu-Tope Abraham](https://toplinkstechs.com/olutope-profile-portfolio)
+
+## WordPress Business Website
+
+Https://toplinkstechs.com
+
+## 🌍 Portfolio
+
+https://toplinkstechs.com/olutope-profile-portfolio
+
+## 📫 Contact Me
+
+* Email: [Send Me Email](mailto:olutop.ab@gmail.com)
+* GitHub: https://github.com/Olu-Tope
+* LinkedIn: https://linkedin.com/in/yourprofile
+
+
+## Fun Fact
+
+I enjoy building clean digital experiences and solving real-world technical problems.
